@@ -1,6 +1,6 @@
 ---
 title: "Building momentum on day one"
-date: 2026-04-19 18:00:00 +0800
+date: 2026-04-19 18:00:00 -0400
 ---
 
 The first post proved the setup; this one is about habit. Publishing twice in one day is a small, deliberate choice — not because every day will look like this, but because starting is easier when you chain one win to another.

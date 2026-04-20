@@ -2,6 +2,7 @@ theme: jekyll-theme-merlot
 title: Grumpy Hippo's personal blog
 description: This is where I share cool stuff about my life
 author: Grumpy Hippo
+timezone: America/New_York
 
 # GitHub Pages project site — change if you use a fork or custom domain
 url: "https://ning-tan.github.io"
