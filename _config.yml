@@ -1,4 +1,8 @@
 theme: minima
-title: grummy hippo's personal blog
+title: Grumpy Hippo's personal blog
 description: This is where I share cool stuff about my life
-author: grummy hippo
+author: Grumpy Hippo
+
+# GitHub Pages project site — change if you use a fork or custom domain
+url: "https://ning-tan.github.io"
+baseurl: "/grumpyhippo"
