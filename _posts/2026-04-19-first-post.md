@@ -1,6 +1,6 @@
 ---
 title: "Hello, world — opening this blog"
-date: 2026-04-19
+date: 2026-04-19 09:00:00 +0800
 ---
 
 Every blog starts somewhere. This post is that somewhere: a marker that the machinery works — Jekyll, GitHub Pages, and a bit of Markdown — and that I am committing to showing up here more often than never.

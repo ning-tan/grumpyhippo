@@ -9,7 +9,8 @@ Browse recent posts below.
 ## Recent posts
 
 {% if site.posts and site.posts.size > 0 %}
-{% for post in site.posts limit:10 %}
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
+{% for post in sorted_posts limit:10 %}
 - [{{ post.title }}]({{ post.url | relative_url }}){% if post.date %} - {{ post.date | date: "%b %-d, %Y" }}{% endif %}
 {% endfor %}
 {% else %}
